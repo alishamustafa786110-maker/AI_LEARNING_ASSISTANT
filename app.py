@@ -295,4 +295,3 @@ if user_question:
                 st.caption(
                     f"Error details: {error}"
                 )
-```
